@@ -1,0 +1,14 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "author": "Guns N' Roses",
+      "name": "Civil War"
+    },
+    {
+      "id": 2,
+      "author": "AC/DC",
+      "name": "Back In Black"
+    }
+  ]
+}
